@@ -285,6 +285,25 @@ img{
     margin-bottom: 50px;
   
 }
+
+.task-text-box {
+    position: absolute;
+    background-color: rgba(47, 48, 58, 0.8);
+    padding: 27px 90px;
+    width: 370px;
+    height: 70px;
+}
+.task-text{
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 1.143;
+    text-align: center;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: var(--white);
+    margin: 0 auto;
+}
+
 /* end portfolio*/
 /*kontakt*/
 
